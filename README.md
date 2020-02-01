@@ -1,5 +1,5 @@
 # MachineLearning_loans
-In this project, I analized lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from https://www.kaggle.com/braindeadcoder/lending-club-data. Additionally, I designed 3 interactive dashboards by using Dash and Plotly in order to do exploratory analysis.
+In this project, I analyzed lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from https://www.kaggle.com/braindeadcoder/lending-club-data. Additionally, I designed 3 interactive dashboards by using Dash and Plotly in order to do exploratory analysis.
 
 Data Columns description:
 
