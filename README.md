@@ -1,5 +1,5 @@
 # MachineLearning_loans
-In this project I will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from https://www.kaggle.com/braindeadcoder/lending-club-data.
+In this project I analized lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from https://www.kaggle.com/braindeadcoder/lending-club-data.
 
 Data Columns description:
 
